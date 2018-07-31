@@ -6,7 +6,7 @@
 
 ### Configuration
 
-Bukak-en file .env.development trus setup en dbmu dewe
+impor anggal.sql ke database terus konfigurasi seperti dibawah
 ```
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
@@ -24,5 +24,7 @@ admin logistik : logistik@logistik.com
 admin keuangan : keuangan@keuangan.com
 
 admin hrd : hrd@hrd.com
+
+konsumen : konsumen@konsumen.com
 
 "# tugassik" 
